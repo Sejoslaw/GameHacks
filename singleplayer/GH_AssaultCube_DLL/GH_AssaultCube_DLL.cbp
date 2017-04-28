@@ -40,8 +40,9 @@
 				</Linker>
 			</Target>
 		</Build>
+		<Unit filename="User_Interface.cpp" />
+		<Unit filename="User_Interface.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="main.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

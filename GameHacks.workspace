@@ -2,5 +2,7 @@
 <CodeBlocks_workspace_file>
 	<Workspace title="KD Game Hacks Collection">
 		<Project filename="singleplayer/GH_AssaultCube/GH_AssaultCube.cbp" />
+		<Project filename="singleplayer/GH_AssaultCube_DLL/GH_AssaultCube_DLL.cbp" />
+		<Project filename="singleplayer/GH_AssaultCube_DLL_Inject/GH_AssaultCube_DLL_Inject.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
