@@ -4,5 +4,7 @@
 		<Project filename="singleplayer/GH_AssaultCube/GH_AssaultCube.cbp" />
 		<Project filename="singleplayer/GH_AssaultCube_DLL/GH_AssaultCube_DLL.cbp" />
 		<Project filename="singleplayer/GH_AssaultCube_DLL_Inject/GH_AssaultCube_DLL_Inject.cbp" />
+		<Project filename="singleplayer/GH_MemoryChange/GH_MemoryChange.cbp" />
+		<Project filename="singleplayer/GH_MemoryChange_Hack/GH_MemoryChange_Hack.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

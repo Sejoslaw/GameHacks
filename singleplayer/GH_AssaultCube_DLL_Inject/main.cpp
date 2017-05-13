@@ -10,7 +10,7 @@ char ProcessName[] = "ac_client.exe";
 typedef HINSTANCE (*fpLoadLibrary)(char*);
 
 
-int main()
+int main(int argc, char *argv[])
 {
 	DWORD processId = NULL;
 
